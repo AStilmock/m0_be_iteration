@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `each` method?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `each` method? At a basic level my understanding for the each command isn't too bad and I can answer basic .each questions. However I am lost on conditionals, which I know we are covering more tomorrow. 
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? I had productive struggle figuring out the basics of the .each command where I could easily retrieve an answer from a quick google search. I was having some unproductive struggle trying to figure out some conditionals and was about to reach out to my small group for help until Kaitlyn confirmed we are working on conditionals tomorrow. 
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? So far I have not gotten behind on my schedule even when a task takes longer, but I do need to dedicate more time to tasks that I am struggling on and ask a few more questions when I am having unproductive struggle in the future as I am sure I will run into problems with longer solutions that take more time. 
+- What questions do you still have? How will you get the answers you need? Not too many questions now after the conditionals issue for iterations was sorted out. I think I am on track for now. 
